@@ -1,0 +1,1 @@
+# This is A.R.C.A addon's resource pack

@@ -2,7 +2,7 @@
   "format_version": 2,
   "header": {
       "description": "RootChestCreateKit_BEと依存関係があります。",
-      "name": "Advanced Rootchest Create Addon",
+      "name": "Advanced Rootchest Create Addon-RE",
       "uuid": "68ca9c5d-52eb-4f97-b1ec-d83f1fcc0f79",
       "version": [1, 0, 0],
       "min_engine_version": [ 1, 21, 82 ]

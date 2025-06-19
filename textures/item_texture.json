@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "RCCKRE",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "aaa" : {"textures" : "textures/items/cmd.png"},
+        "lib" : {"textures" : "textures/items/cmd.png"},
+        "load" : {"textures" : "textures/items/cmd.png"}
+    }
+}

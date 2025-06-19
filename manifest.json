@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+      "description": "RootChestCreateKit_BEと依存関係があります。",
+      "name": "Advanced Rootchest Create Addon",
+      "uuid": "68ca9c5d-52eb-4f97-b1ec-d83f1fcc0f79",
+      "version": [1, 0, 0],
+      "min_engine_version": [ 1, 21, 82 ]
+  },
+  "modules": [
+      {
+          "description": "試験的です",
+          "type": "resources",
+          "uuid": "b9e2a070-89a3-4383-ac6e-8eac3677f157",
+          "version": [1, 0, 0]
+      }
+  ],
+  "dependencies": [
+      {
+        "uuid": "06985ecd-9d68-44c4-a1e7-f1e36fb52a3c",
+        "version": [1,0,0]
+      }
+    ]
+}
